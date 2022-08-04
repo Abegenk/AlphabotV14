@@ -2346,6 +2346,7 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
+├ A b e e Y
 ├ Fatih A.
 ├ Ferdi
 ├ DikaArdnt
