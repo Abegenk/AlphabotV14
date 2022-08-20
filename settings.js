@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "AFKstore-BOTོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ A b e e Yོ ×፝֟͜×" //nama kalian
+global.ownername= "ᴹᴿ᭄حبل مولنོ ོ×፝֟͜×" //nama kalian
 global.myweb ="https://api.abegenk.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/AFKSQUAD" //bebas asal jan hapus
 global.myweb2 = "https://instagram/habilmlna" //bebas
@@ -41,7 +41,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.packname = '© AFKstore BOTོ' //sticker wm ubah
-global.author = 'Di Buat Oleh AbeeY' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh حبل مولن' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
